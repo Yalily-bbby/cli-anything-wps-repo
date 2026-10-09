@@ -1,0 +1,4 @@
+interface:
+  display_name: "WPS 文档自动化"
+  short_description: "用 WPS 自动化生成并导出 PPT、Word、Excel 文档"
+  default_prompt: "使用 $cli-anything-wps 帮我把这组数据生成一份带图表的 PPT，并导出 PDF。"
